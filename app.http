@@ -1,0 +1,20 @@
+POST http://localhost:5500/localhost:5500/api
+Content-Type: application/json
+
+{
+  "name": "SkyWorth Androidd TV 80' ",
+  "price": 40000.0000,
+  "description": "A product added successfully"
+  }
+
+####
+
+GET http://localhost:5500/localhost:5500/api
+
+####
+
+GET http://localhost:5500/localhost:5500/api
+
+#####
+
+GET  http://localhost:5500/localhost:5500/api
